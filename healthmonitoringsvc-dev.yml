@@ -1,5 +1,5 @@
 build:
-  version: "189.0"
+  version: "19.0"
 
 healthmonitoringsvc:
   message: "Welcome to Health Monitoring Service with development profile"
@@ -7,8 +7,8 @@ healthmonitoringsvc:
     name: "John Doe - Developer"
     email: "johndoe.dev@example.com"
   onCallSupport:
-    - (723) 656-8759
+    - (723) 656-8760
     - (156) 342-0956
   logging:
     level:
-      root: DEBUG
+      root: ERROR
