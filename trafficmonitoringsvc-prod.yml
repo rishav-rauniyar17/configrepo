@@ -1,7 +1,7 @@
 build:
   version: "14.0"
  
-invscorecardmgmtsvc:
+trafficmonitoringsvc:
   message: "Welcome to Traffic Monitoring Service with Prod profile"
   contactDetails:
     name: "Alice Johnson - Prod"
