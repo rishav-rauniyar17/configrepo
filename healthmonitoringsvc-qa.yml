@@ -1,0 +1,14 @@
+build:
+  version: "8.0"
+
+healthmonitoringsvc:
+  message: "Welcome to Health Monitoring Service with QA profile"
+  contactDetails:
+    name: "Jane Smith - QA"
+    email: "janesmith.qa@example.com"
+  onCallSupport:
+    - (723) 656-8710
+    - (156) 342-0957
+  logging:
+    level:
+      root: INFO

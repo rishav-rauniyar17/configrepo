@@ -1,0 +1,14 @@
+build:
+  version: "19.0"
+
+healthmonitoringsvc:
+  message: "Welcome to Health Monitoring Service with development profile"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "johndoe.dev@example.com"
+  onCallSupport:
+    - (723) 656-8710
+    - (156) 342-0956
+  logging:
+    level:
+      root: INFO

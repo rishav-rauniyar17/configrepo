@@ -1,0 +1,14 @@
+build:
+  version: "9.0"
+
+healthmonitoringsvc:
+  message: "Welcome to Health Monitoring Service with default profile"
+  contactDetails:
+    name: "Will Jacks - default"
+    email: "willjacks.default@example.com"
+  onCallSupport:
+    - (723) 656-4392
+    - (156) 342-0791
+  logging:
+    level:
+      root: INFO

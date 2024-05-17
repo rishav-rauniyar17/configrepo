@@ -1,0 +1,14 @@
+build:
+  version: "14.0"
+ 
+healthmonitoringsvc:
+  message: "Welcome to Health Monitoring Service with Prod profile"
+  contactDetails:
+    name: "Alice Johnson - Prod"
+    email: "alicejohnson.prod@example.com"
+  onCallSupport:
+    - (723) 656-8711
+    - (156) 342-0958
+  logging:
+    level:
+      root: INFO
