@@ -1,13 +1,13 @@
 build:
-  version: "20.0"
+  version: "10.0"
 
 healthmonitoringsvc:
-  message: "Welcome to Health Monitoring Service with devE profile"
+  message: "Welcome to Health Monitoring Service with dev profile"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe.dev@example.com"
   onCallSupport:
-    - (723) 656-8723
+    - (723) 656-8724
     - (156) 342-0956
   logging:
     level:

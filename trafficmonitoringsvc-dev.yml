@@ -1,13 +1,13 @@
 build:
-  version: "17.0"
+  version: "20.0"
 
 trafficmonitoringsvc:
-  message: "Welcome to Traffic Monitoring Service with devE profile"
+  message: "Welcome to Traffic Monitoring Service with dev profile"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe.dev@example.com"
   onCallSupport:
-    - (723) 656-8711
+    - (723) 656-8712
     - (156) 342-0956
   logging:
     level:
