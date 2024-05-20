@@ -1,5 +1,5 @@
 build:
-  version: "40.0"
+  version: "140.0"
 
 healthmonitoringsvc:
   message: "Welcome to Health Monitoring Service with dev profile"
@@ -11,4 +11,4 @@ healthmonitoringsvc:
     - (156) 342-0956
   logging:
     level:
-      root: INFO
+      root: DEBUG
