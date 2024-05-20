@@ -1,5 +1,5 @@
 build:
-  version: "820.0"
+  version: "8160.0"
 
 trafficmonitoringsvc:
   message: "Welcome to Traffic Monitoring Service with dev profile"
@@ -11,4 +11,4 @@ trafficmonitoringsvc:
     - (156) 342-0956
   logging:
     level:
-      root: TRACE
+      root: INFO
