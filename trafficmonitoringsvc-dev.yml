@@ -1,8 +1,8 @@
 build:
-  version: "50.0"
+  version: "80.0"
 
 trafficmonitoringsvc:
-  message: "Welcome to Traffic Monitoring Service with development profile"
+  message: "Welcome to Traffic Monitoring Service with dev profile"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe.dev@example.com"
@@ -11,4 +11,4 @@ trafficmonitoringsvc:
     - (156) 342-0956
   logging:
     level:
-      root: TRACE
+      root: ERROR
